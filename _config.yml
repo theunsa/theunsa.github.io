@@ -7,7 +7,7 @@
 
 # Site settings
 title: theunsa's github site
-email: your-email@domain.com
+#email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   My personal github site.
 baseurl: "" # the subpath of your site, e.g. /blog
