@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Playing with the Udemy API"
-date:   2022-02-11 15:00:00
+date:   2022-02-11 15:00:00 +02:00
 categories: coding
 ---
 
